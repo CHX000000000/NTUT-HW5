@@ -1,0 +1,4 @@
+﻿  main.c
+d:\ntut\程式\homework\hw5\ntut-hw5\6.36\6.36\main.c(4): warning C4005: 'max': 巨集重複定義
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 請參閱 'max' 之前的定義
+  6.36.vcxproj -> D:\NTUT\程式\HOMEWORK\HW5\NTUT-HW5\6.36\Debug\6.36.exe
